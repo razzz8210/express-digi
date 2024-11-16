@@ -1,0 +1,4 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.726\"}","timestamp":"2024-11-16T12:44:52.008Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.178\"}","timestamp":"2024-11-16T12:44:53.565Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST Request is made for tea","timestamp":"2024-11-16T12:48:50.413Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"6.734\"}","timestamp":"2024-11-16T12:48:50.421Z"}
